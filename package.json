@@ -1,0 +1,14 @@
+{
+  "name": "algovote",
+  "version": "1.0.0",
+  "description": "A DAPP voting system based on algorand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacopo Gennaro Esposito",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "algosdk": "^1.15.0"
+  }
+}
