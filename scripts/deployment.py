@@ -8,9 +8,9 @@ from pyteal import *
 import os
 
 #User mnemonic not safe for production enviremoment 
-creator_mnemonic = "kite deputy bird plate belt blast next hour phrase pumpkin village era gain goat language gun grant birth cargo drive tenant gold visit ability impose"
+creator_mnemonic = "CREATOR MNEMONIC"
 # user declared algod connection parameters.
-user_mnemonic = "paper reunion mutual rail layer quarter nerve advance wisdom balcony fault tragic claim smile crane boil write inject drift title gravity observe cute absent develop"
+user_mnemonic = "USER MNEMONIC"
 # Node must have EnableDeveloperAPI set to true in its config
 algod_address = "http://localhost:4001"
 algod_token = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
