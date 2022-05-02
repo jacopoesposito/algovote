@@ -1,8 +1,10 @@
 # Algovote
 ![GitHub](https://img.shields.io/github/license/jacopoesposito/algovote?color=red&style=flat-square)
+
 AlgoVote is an experiment of a de-centralized app based on Algorand that implements a decentralized voting system, made for learning purpose. 
 
-This DAPP allows users to vote for a candidate into a virtual election; this is only a starting point for future implementation. 
+This DAPP allows users to vote for a candidate into a virtual election; this is only a starting point for future implementation.
+
 Indeed it's only limited to:
 - the deployment of the application on a local node of Algorand Blockchain
 - the execution of an example voting transaction,
