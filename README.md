@@ -19,7 +19,7 @@ Indeed it's only limited to:
 ## Installation 
 * First make a clone of the repository
 ```
-$ git clone https://github.com/jacopoesposito/Mooncake.git
+$ git clone https://github.com/jacopoesposito/algovote.git
 ```
 * Initialize Python Virtual Environment 
 ```
